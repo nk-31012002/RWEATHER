@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RWeather</string>
+    <string name="weather_quotes">A change in the weather is sufficient to \n recreate the world and ourselves</string>
+    <string name="_00_00">00:00 ℃</string>
+</resources>
